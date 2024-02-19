@@ -27,6 +27,6 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg' alt='debian' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg' alt='apple' height='40'>]()
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide_progress=true) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toby-Fm&show_icons=true&count_private=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide_progress=true&theme=dracula) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toby-Fm&show_icons=true&theme=dracula) |
 | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
 
