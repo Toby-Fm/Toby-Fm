@@ -1,5 +1,5 @@
 ### Hi, I'm Toby 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](www.linkedin.com/in/toby-wichmann-5b672529a)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/toby-wichmann-5b672529a)
 [<svg viewBox="0 0 48 48" height="40" width="3em">
     <path fill="white"
         class="x-L"
