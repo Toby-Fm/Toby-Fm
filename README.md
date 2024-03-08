@@ -27,5 +27,4 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg' alt='debian' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg' alt='apple' height='40'>]()
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api?username=Toby-Fm&show_icons=false&bg_color=333333&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=d35400&show_owner=true) | ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide_progress=true&bg_color=333333&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=d35400&show_owner=true") |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide_progress=true&bg_color=333333&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=d35400&show_owner=true")
