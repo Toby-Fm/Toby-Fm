@@ -17,14 +17,27 @@
 - Hobby programmer
 
 ### I work with this ↴  
+#### Languages
+|                                                             c++                                                              |                                                       PHP                                                        |    SASS   | Javascript |
+| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :---: | :---: |
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' alt='c++' height='40'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg' alt='php' height='40'> |   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg' alt='scss' height='40'>    | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' alt='js' height='40'> |
 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' alt='c++' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg' alt='html' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg' alt='scss' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' alt='js' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg' alt='win11' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg' alt='raspi' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg' alt='debian' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg' alt='apple' height='40'>]()
+#### OS
+| Windows | Raspberry Pi / Linux / Debian |
+| :---: | :---: |
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg' alt='win11' height='40'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg' alt='raspi' height='40'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg' alt='debian' height='40'> |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide_progress=true&bg_color=333333&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=d35400&show_owner=true")
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&size_weight=0.15&count_weight=0.5&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Toby-Fm&style=for-the-badge&color=blue" alt=""/>
+</div>
+<!--
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+-->
