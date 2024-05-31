@@ -42,14 +42,9 @@ Hobby programmer
 
 <div align="center">
 
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide=C,lua,Objective-C,Python,css,Vim Script,&size_weight=0.3&count_weight=0.05&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
-
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&size_weight=0.7&count_weight=0.01&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
 
 </div>
-
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide=C,lua,Objective-C,Python,css,Vim Script&size_weight=0.3&count_weight=0.05&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
-
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&size_weight=0.3&count_weight=0.05&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
 
 <!--
 <div id="header" align="center">
