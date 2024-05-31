@@ -42,7 +42,7 @@ Hobby programmer
 
 <div align="center">
 
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide=C,lua,Objective-C,css, size_weight=0.15&count_weight=0.5&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&hide=C,lua,Objective-C, size_weight=0.15&count_weight=0.5&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
 
 
 </div>
