@@ -20,9 +20,9 @@ Hobby programmer
 <div style="margin: auto; margin-left: 39%; margin-right: 50%; width: 100%;">
 
 
-|                                                             c++                                                              |                                                       SASS                                                         |
-| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | 
-| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg' alt='c++' height='40'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg' alt='scss' height='40'> |
+|                          c++                          |                      PHP                      |                              Go                               |                           SASS                           |                          Javascript                          |
+|:-----------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------:|:------------------------------------------------------------:|
+| <img src='img/cplusplus-original.svg' alt='c++' height='40'> | <img src='img/php.png' alt='php' height='40'> | <img src='img/go-original-wordmark.svg' alt='go' height='40'> | <img src='img/sass-original.svg' alt='scss' height='40'> | <img src='img/javascript-original.svg' alt='js' height='40'> |
 
 </div>
 
