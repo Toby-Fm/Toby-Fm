@@ -15,7 +15,6 @@ Hobby programmer
 <div align='center'>
 <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/>
 <img src='https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white'/>
-<img src='https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white'/>
 </div>
 
 
@@ -51,7 +50,7 @@ Hobby programmer
 <img src='https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white'/>
 
 </div>
-
+<!--
 <h4 align="center">IDEs:</h4>
 <div align='center'>
 
@@ -61,7 +60,7 @@ Hobby programmer
 <img src='https://img.shields.io/badge/DataGrip-EC4A59?style=for-the-badge&logo=datagrip&logoColor=white'/>
 
 </div>
-
+-->
 <br>
 
 <div align="center">
