@@ -57,14 +57,14 @@ Hobby programmer
 <img src='https://img.shields.io/badge/CLion-00AEBE?style=for-the-badge&logo=clion&logoColor=white'/>
 <img src='https://img.shields.io/badge/PhpStorm-8E44AD?style=for-the-badge&logo=phpstorm&logoColor=white'/>
 <img src='https://img.shields.io/badge/WebStorm-21D789?style=for-the-badge&logo=webstorm&logoColor=white'/>
-<img src='https://img.shields.io/badge/DataGrip-EC4A59?style=for-the-badge&logo=datagrip&logoColor=white'/>
+<!--<img src='https://img.shields.io/badge/DataGrip-EC4A59?style=for-the-badge&logo=datagrip&logoColor=white'/>-->
 
 </div>
 -->
 <br>
 
-<div align="center">
+<!--<div align="center">
 
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby-Fm&size_weight=1&count_weight=1.5&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=f0f0f000">
 
-</div>
+</div>-->
