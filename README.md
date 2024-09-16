@@ -4,8 +4,8 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/toby-wichmann-5b672529a)
 
 ### About me
-Fachinformatiker/Systemintegration | IT Specialist for SystemIntegration  
-Hobby programmer
+Hobby programmer  
+Fachinformatiker/Systemintegration | IT Specialist for SystemIntegration
 
 ### I work with this ↴
 
