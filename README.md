@@ -5,7 +5,7 @@
 
 ### About me
 Hobby programmer  
-Fachinformatiker/Systemintegration | IT Specialist for SystemIntegration
+IT Systemadministrator
 
 ### I work with this ↴
 
